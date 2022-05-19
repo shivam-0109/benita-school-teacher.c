@@ -1,1 +1,1 @@
-# benita-school-teacher.c
+# benita-school-teacher
